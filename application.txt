@@ -1,2 +1,2 @@
-print(String)
+printf(String)
 println("NextString")
